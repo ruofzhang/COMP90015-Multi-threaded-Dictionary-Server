@@ -1,0 +1,3 @@
+coronavirus,any of various RNA-containing spherical viruses of the family Coronaviridae, including several that cause acute respiratory illnesses
+quarantine,a strict isolation imposed to prevent the spread of disease
+isolation,the state of being isolated
